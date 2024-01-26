@@ -1,0 +1,31 @@
+.filaVerde{
+	background-color: greenyellow;
+	height: 50px;
+	padding: 2px;
+}
+.filaRoja{
+	background-color: red;
+	height: auto;
+}
+@media(max-width:576px){
+	.filaRoja{
+		background-color: red;
+		height: 50px;
+	}
+}
+.filaRosa{
+	background-color: fuchsia;
+	height: 50px;
+}
+.filaNaranja{
+	background-color: orange;
+	height: 50px;
+}
+.filaAzul{
+	background-color: blue;
+	height: 50px;
+}
+.filaVerde2{
+	background-color: greenyellow;
+	height: 25px;
+}
